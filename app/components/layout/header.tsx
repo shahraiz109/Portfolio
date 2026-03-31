@@ -124,7 +124,7 @@ const Header = () => {
               <FaLinkedin />
             </a>
 
-            <a href="#contact" className="icon gmail">
+            <a href="mailto:shahraizali@example.com" className="icon gmail">
               <FaEnvelope />
             </a>
           </div>
